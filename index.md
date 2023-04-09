@@ -42,10 +42,10 @@ I am a first-generation student at Univeristy of California, San Diego. I am cur
 ## More About Me
 
 Some of my hobbies include reading Mystery books, roller skating, photography, and hiking. I am fluent in both Spanish and English. I participated in a Math-Computer Science Bachelor program while studying abroad in Paris, France at Ecole Polytechnique. A couple of things on my bucket list include:
--[x] Visit Paris, France
--[x] Learn a third language
--[] Go dog sledding
--[] Hike to the top of Half Dome in Yosemite
+- [x] Visit Paris, France
+- [x] Learn a third language
+- [] Go dog sledding
+- [] Hike to the top of Half Dome in Yosemite
 
 
 ## Education
@@ -59,4 +59,4 @@ B.S.
 ## Contact
 
     Email: d.flores1229@gmail.com
-    [LinkedIn](https://www.linkedin.com/in/damaris-flores-9841a9166)
+    My [LinkedIn](https://www.linkedin.com/in/damaris-flores-9841a9166).
