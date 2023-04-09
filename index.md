@@ -15,7 +15,7 @@ public double getX(){
 }
 ```
 v.s.
-` public double x; `
+`public double x;`
 
 > Why waste time say lot word when few word do trick. -The Office
 
@@ -44,8 +44,8 @@ I am a first-generation student at Univeristy of California, San Diego. I am cur
 Some of my hobbies include reading Mystery books, roller skating, photography, and hiking. I am fluent in both Spanish and English. I participated in a Math-Computer Science Bachelor program while studying abroad in Paris, France at Ecole Polytechnique. A couple of things on my bucket list include:
 - [x] Visit Paris, France
 - [x] Learn a third language
-- [] Go dog sledding
-- [] Hike to the top of Half Dome in Yosemite
+- [ ] Go dog sledding
+- [ ] Hike to the top of Half Dome in Yosemite
 
 
 ## Education
