@@ -2,9 +2,6 @@
 
 >Simplicity is the soul of efficiency. - Austin Freeman
 
-`public double x;`
-v.s.
-
 ````
 private double x;
 
@@ -16,7 +13,10 @@ public double getX(){
     return x;
 }
 ```
+v.s.
+`public double x;`
 
+> Why waste time say lot word when few word do trick. -The Office
 
 ##Professional Bio
 I am a first-generation student at Univeristy of California, San Diego. I am currently working to obtain my Bachelor's degree in Applied Mathematics. *I want to pursue a career where my interest in math and computer programming will allow me to create a visible impact on the everyday life of people.*
