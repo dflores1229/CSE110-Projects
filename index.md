@@ -15,6 +15,7 @@ public double getX(){
 }
 ```
 v.s.
+
 `public double x;`
 
 > Why waste time say lot word when few word do trick. -The Office
