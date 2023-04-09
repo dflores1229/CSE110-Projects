@@ -59,4 +59,4 @@ B.S.
 ## Contact
 
     Email: d.flores1229@gmail.com
-    My [LinkedIn](https://www.linkedin.com/in/damaris-flores-9841a9166).
+    My [LinkedIn]( https://www.linkedin.com/in/damaris-flores-9841a9166 ).
