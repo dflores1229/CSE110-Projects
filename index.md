@@ -16,7 +16,9 @@ public double getX(){
 ```
 v.s.
 
-`public double x;`
+```
+public double x;
+```
 
 > Why waste time say lot word when few word do trick. -The Office
 
@@ -60,4 +62,4 @@ B.S.
 ## Contact
 
     Email: d.flores1229@gmail.com
-    My [LinkedIn]( https://www.linkedin.com/in/damaris-flores-9841a9166 ).
+    My [LinkedIn](https://www.linkedin.com/in/damaris-flores-9841a9166).
