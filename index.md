@@ -3,7 +3,7 @@
 
 >Simplicity is the soul of efficiency. - Austin Freeman
 
-````
+```
 private double x;
 
 public void setX(double newVal){
